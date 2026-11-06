@@ -1,2 +1,2 @@
-# new-repo
-New repository created via GitHub Copilot
+# export-advantage-tool
+New repository created for us to collab
